@@ -37,7 +37,7 @@ A modern, responsive issue tracking application built with Next.js, featuring op
 
 1. Clone the repository
 ```
-git clone [repository-url]
+git clone [https://github.com/SchizzY/assessment]
 ```
 2. Install Node.js 22.14.0 
 (_if you use nvm_)
