@@ -9,8 +9,6 @@ import { DeleteConfirmDialog } from "./DeleteConfirmationDialog";
 const SKELETON_COUNT = 3;
 const skeletons = Array.from({ length: SKELETON_COUNT }, (_, index) => index);
 
-
-
 export default function ListIssues() {
     const [selectedIssue, setSelectedIssue] = useState<Issue | null>(null);
     const [deleteConfirmIssue, setDeleteConfirmIssue] = useState<Issue | null>(null);

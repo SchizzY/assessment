@@ -39,10 +39,10 @@ A modern, responsive issue tracking application built with Next.js, featuring op
 ```
 git clone git@github.com:SchizzY/assessment.git
 ```
-2. Install Node.js 22.14.0 
+2. Install Node.js 18.16.0
 (_if you use nvm_)
 ```
-nvm install 22.14.0
+nvm install 18.16.0
 ```
 3. Install dependencies
 ```
